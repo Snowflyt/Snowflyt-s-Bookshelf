@@ -1,2 +1,4 @@
-# Snowflyt-s-Bookshelf
+# Snowflyt's Bookshelf
 个人书架整理
+
+主要将个人几年来简单读过并且值得一提的图书做个大致整理。不指望有人看，主要留个足迹
