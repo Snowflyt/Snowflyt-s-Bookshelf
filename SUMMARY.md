@@ -12,6 +12,7 @@
 - [Learning React, 2nd Edition - React学习手册（第2版）](Learning-React-2nd-Edition-React学习手册（第2版）.md)
 - [On Java 8 - On Java 中文版](On-Java-8-On-Java-中文版.md)
 - [Operating Systems - 操作系统导论](Operating-Systems-操作系统导论.md)
+- [Programming with Types - 编程与类型系统](Programming-with-Types-编程与类型系统.md)
 - [Python Data Science Handbook - Python数据科学手册](Python-Data-Science-Handbook-Python数据科学手册.md)
 - [Sams Teach Yourself SQL in 10 Minutes, 5th Edition - SQL必知必会（第5版）](Sams-Teach-Yourself-SQL-in-10-Minutes-5th-Edition-SQL必知必会（第5版）.md)
 - [The Art of Software Testing, 3rd Edition - 软件测试的艺术（第3版）](The-Art-of-Software-Testing-3rd-Edition-软件测试的艺术（第3版）.md)
